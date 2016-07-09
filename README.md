@@ -1,3 +1,3 @@
 # hello-world
 Learn how to use GitHub
-First project
+First project to be used later.
